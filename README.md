@@ -21,5 +21,5 @@ To test this application, once you have completed all the installation requireme
   
 ## Questions
 If you have any questions reach me via GitHub or email:
-[sspspencer](https://github.com/sspspencer)
-ssptuningperformance@gmail.com
+* [sspspencer](https://github.com/sspspencer)
+* ssptuningperformance@gmail.com
